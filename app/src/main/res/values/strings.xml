@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google Map Sirf Search </string>
+    <string name="google_maps_key"  templateMergeStrategy="preserve"
+        translatable="false">AIzaSyDbfYxrw2Qw2HU9d0y9nEPFunq1KLd8Mw0</string>
+
+
+</resources>
